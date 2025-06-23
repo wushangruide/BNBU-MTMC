@@ -11,7 +11,7 @@ BNBU-MTMC is a comprehensive indoor Multi-Target Multi-Camera (MTMC) person re-i
 ## Dataset Collection Environment
 
 <div align="center">
-<img src="images/dataset-overview.jpg" width="800">
+<img src="images/dataset.jpg" width="800">
 <p><strong>Figure 1:</strong> Overview of the BNBU-MTMC dataset collection environment showing the detailed floor plan and representative frames from all 10 cameras</p>
 </div>
 
@@ -20,7 +20,7 @@ The left side shows the detailed floor plan of the T4 building, illustrating the
 ## Dataset Comparison
 
 <div align="center">
-<img src="images/dataset-comparison.jpg" width="600">
+<img src="images/dataset comparison.jpg" width="400">
 <p><strong>Figure 2:</strong> Comparison of BNBU-MTMC with other prominent ReID datasets, highlighting unique indoor challenges</p>
 </div>
 
