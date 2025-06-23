@@ -29,3 +29,20 @@ Our dataset showcases unique indoor challenges compared to popular outdoor datas
 - **(b) Lighting Changes**: Diverse illumination conditions across different indoor spaces  
 - **(c) Poses**: Wide range of human postures and activities specific to indoor settings
 - **(d) Camera Placements**: Variety in camera angles reflecting complex indoor layouts
+
+ 
+## Download
+
+📁 Google Drive:  https://drive.google.com/drive/folders/1IyLQwJZg16BwdbqmUqmPg9Xzzf_upIOE?usp=sharing
+
+## Citation
+
+If you use this dataset in your research, please cite our paper:
+
+```bibtex
+@article{wu2025edgenet,
+ title={EdgeNet: A Distributed Network Architecture for Real-Time Person Re-identification with Dynamic Load Balancing},
+ author={Wu, Shangrui and Li, Yupeng and Guo, Jianxiong and Fan, Wentao and Wang, Wenhua and Wang, Tian},
+ journal={IEEE/ACM International Symposium on Quality of Service},
+ year={2025}
+}
