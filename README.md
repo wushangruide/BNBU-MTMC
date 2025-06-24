@@ -43,7 +43,7 @@ If you use this dataset in your research, please cite our paper:
 @article{wu2025edgenet,
  title={EdgeNet: A Distributed Network Architecture for Real-Time Person Re-identification with Dynamic Load Balancing},
  author={Wu, Shangrui and Li, Yupeng and Guo, Jianxiong and Fan, Wentao and Wang, Wenhua and Wang, Tian},
- journal={IEEE/ACM International Symposium on Quality of Service},
+ booktitle={IEEE/ACM International Symposium on Quality of Service},
  year={2025}
 }
 ```
