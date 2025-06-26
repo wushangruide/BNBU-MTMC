@@ -46,6 +46,22 @@ If you use this dataset in your research, please cite our paper:
  booktitle={IEEE/ACM International Symposium on Quality of Service},
  year={2025}
 }
+
+@article{wu2025enhancing,
+  title={Enhancing Collaborative Inference on Heterogeneous Edge Devices via Adaptive Ensemble Knowledge Distillation},
+  author={Wu, Shangrui and Li, Yupeng and Wang, Wenhua and Guo, Jianxiong and Fan, Wentao and Liu, Qin and Jia, Weijia and Yu, Shui and Cao, Jiannong and Wang, Tian},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2025},
+  publisher={IEEE}
+}
+
+@article{li2025e2ec,
+  title={E2EC: Edge-to-Edge Collaboration for Efficient Real-Time Video Surveillance Inference},
+  author={Li, Guo and Zeng, Jiandian and Peng, Zihao and Liang, Yuzhu and Zheng, Xi and Wang, Tian},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 
 ## Acknowledgments
