@@ -65,4 +65,4 @@ If you use this dataset in your research, please cite our paper:
 ```
 
 ## Acknowledgments
-We gratefully acknowledge the support and resources provided by the Engineering Research Center of Cloud-Edge Intelligent Collaboration on Big Data at Beijing Normal University, which made this research possible.
+The above work was supported in part by grants from the National Key R\&D Program of China (2022YFE0201400). We gratefully acknowledge the support and resources provided by the Engineering Research Center of Cloud-Edge Intelligent Collaboration on Big Data at Beijing Normal University, which made this research possible.
